@@ -1,6 +1,6 @@
  👋 Hi, I’m @Aary98
-- 👀 I’m interested in web ddevelopent/ codicoding (job)
-- 🌱 I’m currently learning ComputComputer ScScience & EngeerinEngineering 
+- 👀 I’m interested in Web Ddevelopent/ Codicoding (Job)
+- 🌱 I’m currently learning Computer Science & Engineering 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @Aary98
 - 😄 Pronouns: ...
