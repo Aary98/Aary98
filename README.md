@@ -1,5 +1,5 @@
  👋 Hi, I’m @Aary98
-- 👀 I’m interested in Web Ddevelopent/ Codicoding (Job)
+- 👀 I’m interested in Web DeDeveloper / Coding (Job)
 - 🌱 I’m currently learning Computer Science & Engineering 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @Aary98
